@@ -39,6 +39,3 @@ A "Flappy Bird" inspired arcade game. Navigate through the obstacles, collect he
 | **Enemy Encounter** | **Game Over** |
 |:---:|:---:|
 | ![Enemy Appearance](https://raw.githubusercontent.com/kurrorro/Twilight-Fell/main/twilight_fell_3.png) | ![Game Over Screen](https://raw.githubusercontent.com/kurrorro/Twilight-Fell/main/twilight_fell_4.png) |
-
----
-*Created by [Your Name/Username]*
