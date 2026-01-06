@@ -1,16 +1,44 @@
-Twilight Fell,
-a Flappy Bird reference game
+# Twilight Fell
 
-Goal: Reach the highest score and avoid the obstacles
+A "Flappy Bird" inspired arcade game. Navigate through the obstacles, collect hearts, avoid enemies, and strive for the highest score possible.
 
-Control: Space for jump
+## Built With
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Pygame Zero](https://img.shields.io/badge/Pygame%20Zero-A03333?style=for-the-badge&logo=python&logoColor=white)
 
-Screenshots:
+## Installation & Run
+1. Clone this repository:
+   ```bash
+   git clone https://github.com/kurrorro/Twilight-Fell.git
+   ```
+2. Install Pygame Zero:
+   ```bash
+   pip install pgzero
+   ```
+3. Run game:
+   ```bash
+   pgzrun main.py
+   ```
+## How To Play
+### Objective
+* **Goal:** Reach the highest score.
+* **Survival:** Avoid hitting obstacles and enemies.
+* **Collect:** Look out for hearts during your run!
 
-![Game screen](https://raw.githubusercontent.com/kurrorro/Twilight-Fell/main/twilight_fell_1.png)
+### Controls
+| Action | Key |
+| :--- | :---: |
+| **Jump / Fly** | `Spacebar` |
 
-![Enemy appearance](https://raw.githubusercontent.com/kurrorro/Twilight-Fell/main/twilight_fell_3.png)
+## Screenshots
 
-![Heart appearance](https://raw.githubusercontent.com/kurrorro/Twilight-Fell/main/twilight_fell_2.png)
+| **Gameplay** | **Heart Item** |
+|:---:|:---:|
+| ![Game Screen](https://raw.githubusercontent.com/kurrorro/Twilight-Fell/main/twilight_fell_1.png) | ![Heart Appearance](https://raw.githubusercontent.com/kurrorro/Twilight-Fell/main/twilight_fell_2.png) |
 
-![Game over](https://raw.githubusercontent.com/kurrorro/Twilight-Fell/main/twilight_fell_4.png)
+| **Enemy Encounter** | **Game Over** |
+|:---:|:---:|
+| ![Enemy Appearance](https://raw.githubusercontent.com/kurrorro/Twilight-Fell/main/twilight_fell_3.png) | ![Game Over Screen](https://raw.githubusercontent.com/kurrorro/Twilight-Fell/main/twilight_fell_4.png) |
+
+---
+*Created by [Your Name/Username]*
