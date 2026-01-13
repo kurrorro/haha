@@ -9,7 +9,7 @@ A "Flappy Bird" inspired arcade game. Navigate through the obstacles, collect he
 ## Installation & Run
 1. Clone this repository:
    ```bash
-   git clone https://github.com/kurrorro/Twilight-Fell.git
+   git clone https://github.com/kurrorro/twilight-fell.git
    ```
 2. Install Pygame Zero:
    ```bash
